@@ -27,7 +27,7 @@ def calculate_entropy(data):
 
 def detect_encryption(file_data):
     # 简单的检测是否包含常见的加解密函数或字符串
-    encryption_keywords = [b"encrypt", b"decrypt", b"crypto", b"rsa", b"aes", b"des"]
+    encryption_keywords = [b"encrypt"， b"decrypt"， b"crypto"， b"rsa"， b"aes"， b"des"]
     for keyword in encryption_keywords:
         if keyword in file_data:
             return 1
