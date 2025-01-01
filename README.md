@@ -1,2 +1,2 @@
 # Prot Denfender Core
-Prot Denfender core code open source repository
+Prot Denfender endpoint protection code open source repository
