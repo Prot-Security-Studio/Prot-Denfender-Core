@@ -1,3 +1,8 @@
+# This program is part of the Prot Denfender project
+# MachineLearningTrainer.py is a machine learning trainer.
+#
+# Prot Denfender is a free and partially open-source software released under GNU AFFERO GENERAL PUBLIC LICENSE Version 3, November 19, 2007.
+# Please abide by the content of this agreement, otherwise we have the right to pursue legal responsibility.
 import os
 import time
 import numpy as np
